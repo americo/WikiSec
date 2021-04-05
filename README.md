@@ -1,3 +1,4 @@
+<img src="https://github.com/americo/WikiSec/raw/main/icon.png" width="250"><br/>
 # WikiSec
 A ideia desse projecto surgiu na comunidade MOZHACK pelo José Seie. WikiSec é um repositório que contém links de segurança da informação, como cursos, sites, blogs, livros, projectos, e outros links como tutoriais ou artigos.
 
