@@ -1,6 +1,6 @@
 # Blogs
 
-Links de blogs de segurança da informação e hacking:
+Blogs de segurança da informação e hacking:
 
  - The Hacker News: https://thehackernews.com
  - The Hack: https://thehack.com.br
