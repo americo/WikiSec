@@ -4,7 +4,7 @@
 
 <h1 align="center">WikiSec</h1>
 A ideia desse projecto surgiu na comunidade MOZHACK pelo José Seie. WikiSec é um repositório que contém links de segurança da informação, como cursos, sites, blogs, livros, projectos, e outros links como tutoriais ou artigos.
-
+<br/>
 O objectivo é centralizar as fontes de conteúdo neste repositório, para ajudar as pessoas a encontrarem de forma fácil conteúdo para estudo, uma vez que várias pessoas tem dificuldade para encontrar conteúdo sobre o assunto na internet.
 
 ## Páginas
