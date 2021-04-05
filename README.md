@@ -14,7 +14,7 @@ O objectivo é centralizar as fontes de conteúdo neste repositório, para ajuda
 
 ## Contribuidores
 
-| [<img src="https://avatars.githubusercontent.com/u/62674418?s=400&u=f794e66e7a5176af23c099b0cf4a85b206e11d93&v=4v=3&s=115" width="155"><br><sub>@americo</sub>](https://github.com/americo) |
+| [<img src="https://avatars.githubusercontent.com/u/62674418?s=400&u=f794e66e7a5176af23c099b0cf4a85b206e11d93&v=4v=3&s=115" width="80"><br><sub>@americo</sub>](https://github.com/americo) |
 | :---: |
 
 ## Autor
